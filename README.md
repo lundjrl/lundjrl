@@ -2,7 +2,7 @@
   Hi there 👋 I'm James :astronaut:
 </h1>
 
-<p align='center'>I'm a React/Native Web and Mobile developer from lovely :deer: Michigan :deer: </p>
+<p align='center'>I'm a React/Native Web and Mobile developer from lovely Michigan :deer: </p>
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=lundjrl&show_icons=true&count_private=true&theme=dark" width="350"></a>
