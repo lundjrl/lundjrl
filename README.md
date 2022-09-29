@@ -17,6 +17,7 @@
 </p>
 
 <p align='center'>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lundjrl&layout=compact&hide=PlpgSQL,jupyter%20notebook,html,c%2B%2B,c,java,makefile,vim%20script,starlark&langs_count=8">
 </p>
 
