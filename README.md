@@ -17,9 +17,9 @@
 </p>
 
 <p align='center'>
-<!--  Main: https://github-readme-stats-fryl.vercel.app  -->
+<!--  Main: https://github-readme-stats.vercel.app  -->
 <!--  Personal: https://github-readme-stats-lovat-psi.vercel.app  -->
-  <img src="https://github-readme-stats-fryl.vercel.app/api/top-langs/?username=lundjrl&layout=compact&hide=PlpgSQL,jupyter%20notebook,html,objective-c,css,ruby,c%2B%2B,c,lex,perl,yacc,java,makefile,vim%20script,starlark&langs_count=8">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lundjrl&layout=compact&hide=PlpgSQL,jupyter%20notebook,html,objective-c,css,ruby,c%2B%2B,c,lex,perl,yacc,java,makefile,vim%20script,starlark&langs_count=8">
 </p>
 
 <p align='center'>
