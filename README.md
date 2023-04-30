@@ -8,9 +8,11 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=lundjrl&show_icons=true&count_private=true&theme=tokyonight" width="350"></a>
 </p>
 
+<!--
 <p align='center'>
   📱 How to talk to me: <a href='mailto:jrlbidamin@gmail.com'>jrlbidamin@gmail.com</a>
 </p>
+-->
 
 <p align='center'>
   <a href="#" style="cursor: default"><img src="https://komarev.com/ghpvc/?username=lundjrl&color=brightgreen"></a>
@@ -19,7 +21,7 @@
 <p align='center'>
 <!--  Main: https://github-readme-stats.vercel.app  -->
 <!--  Personal: https://github-readme-stats-lovat-psi.vercel.app  -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lundjrl&layout=compact&hide=PlpgSQL,jupyter%20notebook,html,objective-c,css,ruby,c%2B%2B,c,lex,perl,yacc,java,makefile,vim%20script,starlark&langs_count=8">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lundjrl&count_private=true&layout=compact&hide=PlpgSQL,jupyter%20notebook,html,objective-c,css,ruby,c%2B%2B,c,lex,perl,yacc,java,makefile,vim%20script,starlark&langs_count=8">
 </p>
 
 <p align='center'>
