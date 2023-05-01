@@ -8,15 +8,15 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=lundjrl&show_icons=true&count_private=true&theme=tokyonight" width="350"></a>
 </p>
 
-<!--
 <p align='center'>
   📱 How to talk to me: <a href='mailto:jrlbidamin@gmail.com'>jrlbidamin@gmail.com</a>
 </p>
--->
 
+<!--
 <p align='center'>
   <a href="#" style="cursor: default"><img src="https://komarev.com/ghpvc/?username=lundjrl&color=brightgreen"></a>
 </p>
+-->
 
 <p align='center'>
 <!--  Main: https://github-readme-stats.vercel.app  -->
