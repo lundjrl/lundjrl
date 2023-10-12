@@ -24,15 +24,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lundjrl&count_private=true&layout=compact&hide=PlpgSQL,jupyter%20notebook,html,objective-c,css,ruby,c%2B%2B,c,lex,perl,yacc,java,makefile,vim%20script,starlark,scss,objective-c%2B%2B&langs_count=8">
 </p>
 
-<p align='center'>
-    <img align="center" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-    <img align="center" alt="Typescript" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/typescript/typescript.png" />
-     <img align="center" alt="GraphQL" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" />
-    <img align="center" alt="React" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-   <img align="center" alt="Next.js" width="40px" src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" />
-    <img align="center" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-    <img align="center" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-    <img align="center" alt="terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,nextjs,react,graphql,tailwind,nodejs,docker,firebase,figma,postgres,mysql,vercel,aws,androidstudio,swift,postman,linux,git,bash" /> <!--- html, --->
+  </a>
 </p>
 
 <h6 align='center'>Like the work I do? Consider powering my brain with caffeine!</h6>
