@@ -24,14 +24,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lundjrl&count_private=true&layout=compact&hide=PlpgSQL,jupyter%20notebook,html,objective-c,css,ruby,c%2B%2B,c,lex,perl,yacc,java,makefile,vim%20script,starlark,scss,objective-c%2B%2B&langs_count=8">
 </p>
 
-<h6 align="center">The main things...</h6>
+<h5 align="center">My typical stack</h5>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,nextjs,graphql,tailwind,nodejs,docker,postgres" /> <!--- html, --->
   </a>
 </p>
 
-<h6 align="center">Oh, these things too...</h6>
+<h5 align="center">I also use these things...</h5>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,mysql,firebase,figma,postgres,mysql,vercel,aws,androidstudio,swift,postman,linux,git,bash" /> <!--- html, --->
