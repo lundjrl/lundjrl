@@ -27,14 +27,14 @@
 <h5 align="center">My typical stack</h5>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,nextjs,graphql,tailwind,nodejs,docker,postgres" /> <!--- html, --->
+    <img src="https://skillicons.dev/icons?i=ts,vue,tailwind,nodejs,docker,postgres" /> <!--- html, --->
   </a>
 </p>
 
 <h5 align="center">I also use these things...</h5>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vue,firebase,figma,postgres,mysql,vercel,aws,androidstudio,swift,postman,linux,git,bash" /> <!--- html, --->
+    <img src="https://skillicons.dev/icons?i=react,nextjs,graphql,firebase,figma,postgres,mysql,vercel,aws,androidstudio,swift,postman,linux,git,bash" /> <!--- html, --->
   </a>
 </p>
 
