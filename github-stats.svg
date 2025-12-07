@@ -1,0 +1,56 @@
+<svg width="540" height="300" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 300"
+    preserveAspectRatio="xMidYMid meet" style="font-family:system-ui, -apple-system, sans-serif">
+    <rect width="540" height="300" fill="#181825" />
+    <g transform="translate(24, 0)">
+        <g transform="translate(0)">
+            <g transform="translate(16,0)">
+                <g>
+                    <text x="30" y="101.3" font-size="13" fill="#cdd6f4"
+                        style="font-family:system-ui, -apple-system, sans-serif" font-weight="500">TypeScript</text>
+                    <rect x="130" y="86.7" width="268" height="20.2" fill="#f0f0f0" rx="4" />
+                    <rect x="130" y="86.7" width="101.8" height="20.2" fill="#3178c6" rx="4"
+                        opacity="0.9" />
+                    <text x="406" y="100.9" font-size="12" fill="#cdd6f4"
+                        style="font-family:system-ui, -apple-system, sans-serif">38.0%</text>
+                </g>
+                <g>
+                    <text x="30" y="134.9" font-size="13" fill="#cdd6f4"
+                        style="font-family:system-ui, -apple-system, sans-serif" font-weight="500">JavaScript</text>
+                    <rect x="130" y="120.3" width="268" height="20.2" fill="#f0f0f0" rx="4" />
+                    <rect x="130" y="120.3" width="59" height="20.2" fill="#f1e05a" rx="4"
+                        opacity="0.9" />
+                    <text x="406" y="134.5" font-size="12" fill="#cdd6f4"
+                        style="font-family:system-ui, -apple-system, sans-serif">22.0%</text>
+                </g>
+                <g>
+                    <text x="30" y="168.5" font-size="13" fill="#cdd6f4"
+                        style="font-family:system-ui, -apple-system, sans-serif" font-weight="500">Python</text>
+                    <rect x="130" y="153.9" width="268" height="20.2" fill="#f0f0f0" rx="4" />
+                    <rect x="130" y="153.9" width="37.5" height="20.2" fill="#3572a5" rx="4"
+                        opacity="0.9" />
+                    <text x="406" y="168.1" font-size="12" fill="#cdd6f4"
+                        style="font-family:system-ui, -apple-system, sans-serif">14.0%</text>
+                </g>
+                <g>
+                    <text x="30" y="202.1" font-size="13" fill="#cdd6f4"
+                        style="font-family:system-ui, -apple-system, sans-serif" font-weight="500">C++</text>
+                    <rect x="130" y="187.5" width="268" height="20.2" fill="#f0f0f0" rx="4" />
+                    <rect x="130" y="187.5" width="37.5" height="20.2" fill="#f34b7d" rx="4"
+                        opacity="0.9" />
+                    <text x="406" y="201.7" font-size="12" fill="#cdd6f4"
+                        style="font-family:system-ui, -apple-system, sans-serif">14.0%</text>
+                </g>
+                <g>
+                    <text x="30" y="235.7" font-size="13" fill="#cdd6f4"
+                        style="font-family:system-ui, -apple-system, sans-serif" font-weight="500">Go</text>
+                    <rect x="130" y="221.1" width="268" height="20.2" fill="#f0f0f0" rx="4" />
+                    <rect x="130" y="221.1" width="32.2" height="20.2" fill="#00add8" rx="4"
+                        opacity="0.9" />
+                    <text x="406" y="235.3" font-size="12" fill="#cdd6f4"
+                        style="font-family:system-ui, -apple-system, sans-serif">12.0%</text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
+     
