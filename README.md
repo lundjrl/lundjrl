@@ -4,9 +4,9 @@
 
 <p align='center'>I'm a React/Native Web and Mobile developer from lovely Michigan :deer: </p>
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=lundjrl&show_icons=true&count_private=true&theme=tokyonight" width="350"></a>
-</p>
+<!-- <p align='center'> -->
+  <!-- <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=lundjrl&show_icons=true&count_private=true&theme=tokyonight" width="350"></a> -->
+<!-- </p> -->
 
 <p align='center'>
   📱 How to talk to me: <a href='mailto:jrlbidamin@gmail.com'>jrlbidamin@gmail.com</a>
